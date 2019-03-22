@@ -1,0 +1,24 @@
+Web Hosting
+All Website.com web hosting accounts will display a "Coming Soon" web page by default when activated. This page informs visitors that the Subscriber has recently setup their account with Website.com. The "Coming Soon" default index web page may be removed by the Subscriber at any time once they have access to the web server. The "Coming Soon" web page may include, but without limitation to, the following:
+
+Links to additional products and services offered by Website.com.
+Advertisements for products and services offered by third-parties.
+An internet search engine interface.
+All web page error requests (such as 403 errors or 404 errors) will direct traffic to a default Website.com error page. This error page informs visitors that the web page they are looking for cannot be found, and may include, but without limitation to, the following:
+
+Links to additional products and services offered by Website.com.
+Advertisements for products and services offered by third-parties.
+An internet search engine interface.
+At its sole discretion, Website.com may place advertisements or other commercial content on your website, emails or anywhere it deems fit.
+
+Depending on which hosting plan you choose, you may request to change the billing term of your hosting service through your account control panel. In such cases, the expiry date of your hosting service will be adjusted according to the billing term that you have requested. Any optional features for your hosting plan will be billed according to the term that you have requested.
+
+If your hosting plan includes a free domain name, you will be required to pay a fee to reimburse Website.com for the domain name registration upon changing to another hosting plan or a billing term that does not include a free domain name. The amount of this fee will vary depending on the domain extension and on the registration term.
+
+All Website.com web hosting services, including service trials and promotional hosting offers, and their billing terms may be prorated and adjusted to expire on the last day of a month.
+
+All service trials and promotion offers are considered to be delivered in full upon the completion of the service term stated on the trial or offer invoice found in your account control panel. Website.com is not obligated to provide reimbursement for any proration or service term adjustment on service trials or promotional offers.
+
+Promotional offers, including special introductory rates, promotional rates, or any non-regular pricing, are only available to new customers and are only valid for the initial term. All hosting services will renew at the regular renewal rate.
+
+In the absence of a cancellation request from you, your hosting service will be renewed for a successive term, at the regular renewal rate, on the 16th of the expiry month.
